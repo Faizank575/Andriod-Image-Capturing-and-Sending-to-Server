@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Capture and Sending it to Server</string>
+    <string name="get_image">Get image</string>
+</resources>
